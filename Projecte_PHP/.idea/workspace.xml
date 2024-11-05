@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8df3e44-4337-475c-a4d0-3928c6d9d3ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/phpTinkering/App/Controllers/BookController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpTinkering/App/Models/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpTinkering/resources/views/landing.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/App/Controllers/FilmController.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpTinkering/App/Controllers/FilmController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/Core/Route.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpTinkering/Core/Route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/resources/views/films/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpTinkering/resources/views/films/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/resources/views/films/delete.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpTinkering/resources/views/films/delete.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/resources/views/films/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpTinkering/resources/views/films/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpTinkering/resources/views/films/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpTinkering/resources/views/films/index.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/phpTinkering/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phpTinkering" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpTinkering/vendor/symfony/polyfill-php80" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nkWsQIe0hKUdof9ikdgvyv8Ztu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8df3e44-4337-475c-a4d0-3928c6d9d3ea" name="Changes" comment="" />
+      <created>1729517760174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729517760174</updated>
+      <workItem from="1729517761221" duration="1491000" />
+      <workItem from="1729519533255" duration="2511000" />
+      <workItem from="1729775249727" duration="5712000" />
+      <workItem from="1729787708701" duration="11000" />
+      <workItem from="1729861654134" duration="8723000" />
+      <workItem from="1730125722366" duration="5559000" />
+      <workItem from="1730136873731" duration="16000" />
+      <workItem from="1730210993734" duration="3733000" />
+      <workItem from="1730227142741" duration="5000" />
+      <workItem from="1730815565573" duration="1295000" />
+      <workItem from="1730816906804" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/phpTinkering/resources/views/films/index.blade.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
